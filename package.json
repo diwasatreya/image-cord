@@ -15,11 +15,11 @@
     "canva"
   ],
   "author": "Supreme",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/diwasatreya/image-cord/issues"
   },
-  "homepage": "https://github.com/diwasatreya/image-cord",
+  "homepage": "https://github.com/diwasatreya/image-cord#readme",
   "dependencies": {
     "canvas": "^2.8.0",
     "canvas-constructor": "^5.0.1",
