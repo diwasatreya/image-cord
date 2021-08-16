@@ -26,21 +26,20 @@ npm i image-cord
 ```js
 const Discord = require("discord.js")
 const { MessageEmbed } = require('discord.js')
-const client = new discord.Client()
-const Random = require("image-cord")
+const client = new Discord.Client()
+const gif = require("image-cord")
 
 
 client.on("ready", () => {
-  console.log("Ready to go")
+  console.log("YAY! Bot is online and ready")
 })
 
 client.on("message", async message => {
 
   if(message.content === "!hug") {
-    let image = await Random.Hug()
+    let image = await gif.Hug()
 
     let embed = new MessageEmbed()
-.setTitle(``)
 .setColor("#87CEEB")
 .setImage(image)
 .setTimestamp()
