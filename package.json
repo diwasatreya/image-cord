@@ -1,0 +1,28 @@
+{
+  "name": "image-cord",
+  "version": "1.0.2",
+  "description": "It is package which have funs and image manipulation and more templates Images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwasatreya/image-cord.git"
+  },
+  "keywords": [
+    "templates",
+    "canva"
+  ],
+  "author": "Supreme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diwasatreya/image-cord/issues"
+  },
+  "homepage": "https://github.com/diwasatreya/image-cord",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "canvas-constructor": "^5.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
