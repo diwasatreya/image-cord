@@ -13,6 +13,9 @@
 </div>
 
 
+# Info
+
+I planned to make this package like creating meme, anime, logo, more templates that you have never expected. But this is pending idk when I will update this. 
 
 # About 
 image-cord is a just a package that create images and gifs. This package is only for making discord bot commands of fun category and image category. This package is new we are adding many things.
