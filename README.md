@@ -5,7 +5,7 @@
   </p>
   <br />
   <p>
-    <a href="https://discord.gg/admin"><img src="https://img.shields.io/discord/708565122188312579?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <a href="https://discord.gg/dcdev"><img src="https://img.shields.io/discord/708565122188312579?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/image-cord"><img src="https://img.shields.io/npm/v/image-cord.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/image-cord"><img src="https://img.shields.io/npm/dt/image-cord.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://www.patreon.com/diwasatreya"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
